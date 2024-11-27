@@ -1,0 +1,63 @@
+h1 {
+    font-family: Georgia;
+    color: linen;
+    font-size: 50px;
+    margin-bottom: -7px;
+    margin-top: 0px;
+  }
+  h2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: tomato; 
+    margin-bottom: -3px;
+    font-size: 35px;
+  }
+  a {
+    color: BurlyWood;
+    font-family: Monospace;
+  }
+  .rectangle {
+    height: 3px;
+    width: 300px;
+    background-color: DarkSeaGreen;
+    margin-bottom: 5px;
+    margin-top: 6px;
+  }
+  p {
+    color: white;
+    font-family: PowderBlue;
+    line-height: 25px;
+    display: block;
+    margin-bottom: 10px;
+  }
+  h4 {
+    font-family: Impact;
+    color: crimson;
+    font-size: 20px;
+    margin-bottom: -10px;
+  }
+  html {
+    background-color: black;
+  }
+  #art {
+    border-color: lightblue;
+    border-width: 5px;
+  }
+  #meet {
+    font-family: 'Gill Sans';
+    color: linen;
+    font-size: 40px;
+    margin-bottom: -17px;
+    margin-top: 40px;
+  }
+  #bg {
+    background-color: darkslategray;
+    border-radius: 15px;
+    height: 300px;
+  }
+  article {
+    margin-left: 30px;
+  }
+  hr {
+    width: 700px;
+    float: left;
+  }

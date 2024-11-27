@@ -1,0 +1,70 @@
+h1 {
+  font-family: Georgia;
+  color: linen;
+  font-size: 50px;
+  margin-bottom: -22px;
+  margin-top: 0px;
+}
+h2 {
+  font-family: Brush Script MT;
+  color: Green;
+  margin-bottom: -3px;
+}
+a {
+  color: BurlyWood;
+  font-family: Monospace;
+  text-decoration: none;
+}
+.rectangle {
+  height: 3px;
+  width: 314px;
+  background-color: DarkSeaGreen;
+  margin-bottom: 5px;
+  margin-top: 6px;
+}
+p {
+  color: white;
+  font-family: Georgia;
+  line-height: 25px;
+  display: block;
+}
+h4 {
+  font-family: Impact;
+  color: crimson;
+  font-size: 30px;
+  margin-bottom: -10px;
+}
+section {
+  border: 5px double;
+  border-color: royalBlue;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 30px;
+  margin-right: 0px;
+  float: left;
+}
+.pullqoute{
+  color: DarkSeaGreen;
+  border-top: 4px double black;
+  border-bottom: 4px double black;
+  float: right;
+  font-size: 1.9rem;
+  font-style: italic;
+  margin: 0 0 0.75rem 0.5rem;
+  padding: 8px 0px 8px 16px;
+  width: 50%;
+  border-color: DarkSeaGreen;
+  margin-top: 20px;
+  max-width: 450px;
+}
+html {
+  background-color: black;
+}
+#img {
+  padding-top: 20px;
+}
+h3 {
+  color: rgb(0, 171, 97);
+  font-family: Kanit;
+  font-size: 40px;
+}
